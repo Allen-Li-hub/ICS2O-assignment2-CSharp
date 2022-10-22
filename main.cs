@@ -24,7 +24,7 @@ class Program
         sidebOfTriangle = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter the side C (cm): ");
         sidecOfTriangle = Convert.ToInt32(Console.ReadLine());
-        
+
         perimeter = (sidebOfTriangle + sideaOfTriangle + sidecOfTriangle);
 
         Console.WriteLine("");
